@@ -1,4 +1,4 @@
-# Messenger
+# AppSec Messenger
 
 [Русская версия](README.ru.md)
 
@@ -57,7 +57,7 @@ appsec-messenger/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/foxxxymiron/appsec-messenger/.git
+   git clone https://github.com/foxxxymiron/appsec-messenger.git
    ```
 2. Open the project folder in VS Code.
 3. Open `index.html` with Live Server (or any local server).
