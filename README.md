@@ -42,7 +42,7 @@ broken auth) on top of this client.
 ## Project Structure
 
 ```
-my-messenger/
+appsec-messenger/
 ├── index.html          Registration page
 ├── chat.html           Chat page
 ├── css/
@@ -57,7 +57,7 @@ my-messenger/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/foxxxymiron/my-messenger.git
+   git clone https://github.com/foxxxymiron/appsec-messenger/.git
    ```
 2. Open the project folder in VS Code.
 3. Open `index.html` with Live Server (or any local server).
